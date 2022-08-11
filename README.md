@@ -1,4 +1,4 @@
-# DIAGNOSTICADOR DE MICROSUEÑOS
+# Diagnosticador de Microsueños
 ### Daniel Felipe Camargo Roa
 
 #### Desarrollo:
